@@ -1,0 +1,20 @@
+{
+  "name": "arangoDB-API",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Adailton Silva",
+  "license": "ISC",
+  "dependencies": {
+    "arangojs": "^6.12.0",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "moment": "^2.24.0",
+    "nodemon": "^1.19.1"
+  }
+}
