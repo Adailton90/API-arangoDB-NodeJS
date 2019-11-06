@@ -1,10 +1,10 @@
 const arangoRoutes = require('../arangoAPI');
 
-const appRouter = (app) =>{
-	app.get('/', (req, res) => {
+const appRouter = (app, fs) => {
+    app.get('/', (req, res) => {
         res.send('Bem Vindo ArangoDB API!!');
     });
-	arangoRoutes(app);
+    arangoRoutes(app, fs);
 };
 
 module.exports = appRouter;
