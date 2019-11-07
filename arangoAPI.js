@@ -1,9 +1,8 @@
 const arangoRoutes = (app, fs) => {
-    // const fs = require('fs');
-    //const emendaPath = './emenda72.json';
     const arangojs = require("arangojs");
     const dataEmenda = require('./data/fileEmenda');
 
+    var aqlQuery = require('arangojs').aqlQuery;
     const db = new arangojs.Database();
     db.useDatabase('emenda')
 
@@ -36,23 +35,21 @@ const arangoRoutes = (app, fs) => {
         let alldocs = []
         await db.useDatabase('emenda').collection(req.params.collection).all().then(
             cursor => cursor.map(doc => alldocs.push(doc),
-                err => res.send('Failed to fetch all documents:')
+                err => res.send('Failed to fetch all documents:', err)
             ));
         return res.send(alldocs);
 
     })
 
-    app.get('/listdoc/:collection/:filter', async(req, res) => {
-        let alldocs = []
-        await db.query(`FOR d IN firstCollection SORT d.value ASC RETURN d._key`).then(
+    app.get('/filterdoc/:collection/', async(req, res) => {
+        let filterDoc = []
+        await db.query(aqlQuery`FOR doc IN emendaCollection FILTER doc.Ano da Emenda == 2015 return doc`).then(
             cursor => cursor.all()
-        ).then(
-            keys => console.log('All keys:', keys.join(', ')),
-            err => console.error('Failed to execute query:', err)
-        );
-        return res.send(alldocs);
+            );
+        return res.send(filterDoc);
 
     })
+    
 
     //excluindo arquivo pela chave
     app.delete('/deleteDoc/:collection/:key', async(req, res) => {
