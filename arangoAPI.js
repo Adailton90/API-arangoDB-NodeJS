@@ -41,15 +41,15 @@ const arangoRoutes = (app, fs) => {
 
     })
 
-    app.get('/filterdoc/:collection/', async(req, res) => {
+    app.get('/filterdoc/:collection/:filter', async(req, res) => {
         let filterDoc = []
-        await db.query(aqlQuery`FOR doc IN emendaCollection FILTER doc.Ano da Emenda == 2015 return doc`).then(
-            cursor => cursor.all()
-            );
+        await db.query(`FOR emenda IN emendaCollection FILTER CONTAINS(emenda.Ano, '2015') RETURN emenda`).then(
+            cursor => cursor.map(doc => filterDoc.push(doc),
+                err => res.send('Failed to fetch all documents:', err)
+            ));
         return res.send(filterDoc);
-
     })
-    
+
 
     //excluindo arquivo pela chave
     app.delete('/deleteDoc/:collection/:key', async(req, res) => {
