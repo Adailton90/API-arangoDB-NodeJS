@@ -1,8 +1,12 @@
-const arangoRoutes = (app, fs) => {
-    const arangojs = require("arangojs");
-    const dataEmenda = require('./data/fileEmenda');
+const multer = require('multer')
+const upload = multer()
+const arangojs = require("arangojs");
+const dataEmenda = require('./data/fileEmenda');
+const aqlQuery = require('arangojs').aqlQuery;
+const fs = require('fs');
 
-    var aqlQuery = require('arangojs').aqlQuery;
+const arangoRoutes = (app) => {
+
     const db = new arangojs.Database();
     db.useDatabase('emenda')
 
@@ -30,6 +34,23 @@ const arangoRoutes = (app, fs) => {
         );
     })
 
+    app.post('/fileInsertDocument', upload.single('file'), async(req, res) => {
+
+        const jsonFile = []
+        fs.writeFile(req.file, JSON.stringify(jsonFile), 'utf8',
+            (err) => {
+                if (err)
+                    reject(null);
+                resolve(true);
+            })
+        console.log(jsonFile)
+
+        // await db.useDatabase('emenda').collection(req.body.collection).import(docs).then(
+        //     result => console.log('Import complete:', result),
+        //     err => console.error('Import failed:', err)
+        // );
+    })
+
     //listando todos documentos de uma collection
     app.get('/listdoc/:collection', async(req, res) => {
         let alldocs = []
@@ -41,6 +62,7 @@ const arangoRoutes = (app, fs) => {
 
     })
 
+    //buscando por filtro
     app.get('/filterdoc/:collection/:filter', async(req, res) => {
         let filterDoc = []
         await db.query(`FOR emenda IN emendaCollection FILTER CONTAINS(emenda.Ano, '2015') RETURN emenda`).then(

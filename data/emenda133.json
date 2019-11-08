@@ -1,0 +1,133 @@
+[
+  {
+    "Código da Emenda": 201534200006,
+    "Ano da Emenda": 2015,
+    "Nome do Autor da Emenda": "ABELARDO LUPION",
+    "Nome Município": "CURITIBA",
+    "Nome Estado": "PARANÁ",
+    "Nome Região": "Sul",
+    "Nome Função": "Saúde",
+    "Nome Subfunção": "Atenção básica",
+    "Valor Empenhado": 789725
+  },
+  {
+    "Código da Emenda": 201534200007,
+    "Ano da Emenda": 2015,
+    "Nome do Autor da Emenda": "ABELARDO LUPION",
+    "Nome Município": "FIGUEIRA",
+    "Nome Estado": "PARANÁ",
+    "Nome Região": "Sul",
+    "Nome Função": "Urbanismo",
+    "Nome Subfunção": "infra-estrutura urbana",
+    "Valor Empenhado": 1400000
+  },
+  {
+    "Código da Emenda": 201534200010,
+    "Ano da Emenda": 2015,
+    "Nome do Autor da Emenda": "ABELARDO LUPION",
+    "Nome Município": "IBAITI",
+    "Nome Estado": "PARANÁ",
+    "Nome Região": "Sul",
+    "Nome Função": "Urbanismo",
+    "Nome Subfunção": "infra-estrutura urbana",
+    "Valor Empenhado": 1400000
+  },
+  {
+    "Código da Emenda": 201534200013,
+    "Ano da Emenda": 2015,
+    "Nome do Autor da Emenda": "ABELARDO LUPION",
+    "Nome Município": "JACAREZINHO",
+    "Nome Estado": "PARANÁ",
+    "Nome Região": "Sul",
+    "Nome Função": "Saúde",
+    "Nome Subfunção": "Atenção básica",
+    "Valor Empenhado": 500000
+  },
+  {
+    "Código da Emenda": 201534200014,
+    "Ano da Emenda": 2015,
+    "Nome do Autor da Emenda": "ABELARDO LUPION",
+    "Nome Município": "JACAREZINHO",
+    "Nome Estado": "PARANÁ",
+    "Nome Região": "Sul",
+    "Nome Função": "Saúde",
+    "Nome Subfunção": "Administração geral",
+    "Valor Empenhado": 231800
+  },
+  {
+    "Código da Emenda": 201534200015,
+    "Ano da Emenda": 2015,
+    "Nome do Autor da Emenda": "ABELARDO LUPION",
+    "Nome Município": "JAGUARIAÍVA",
+    "Nome Estado": "PARANÁ",
+    "Nome Região": "Sul",
+    "Nome Função": "Saúde",
+    "Nome Subfunção": "Assistência hospitalar e ambulatorial",
+    "Valor Empenhado": 389810
+  },
+  {
+    "Código da Emenda": 201534200019,
+    "Ano da Emenda": 2015,
+    "Nome do Autor da Emenda": "ABELARDO LUPION",
+    "Nome Município": "SANTO ANTÔNIO DA PLATINA",
+    "Nome Estado": "PARANÁ",
+    "Nome Região": "Sul",
+    "Nome Função": "Saúde",
+    "Nome Subfunção": "Atenção básica",
+    "Valor Empenhado": 462500
+  },
+  {
+    "Código da Emenda": 201527350001,
+    "Ano da Emenda": 2015,
+    "Nome do Autor da Emenda": "ACELINO POPO",
+    "Nome Município": "BELO CAMPO",
+    "Nome Estado": "BAHIA",
+    "Nome Região": "Nordeste",
+    "Nome Função": "Urbanismo",
+    "Nome Subfunção": "infra-estrutura urbana",
+    "Valor Empenhado": 740000
+  },
+  {
+    "Código da Emenda": 201527350003,
+    "Ano da Emenda": 2015,
+    "Nome do Autor da Emenda": "ACELINO POPO",
+    "Nome Município": "CANÁPOLIS",
+    "Nome Estado": "BAHIA",
+    "Nome Região": "Nordeste",
+    "Nome Função": "Urbanismo",
+    "Nome Subfunção": "infra-estrutura urbana",
+    "Valor Empenhado": 500000
+  },
+  {
+    "Código da Emenda": 201527350013,
+    "Ano da Emenda": 2015,
+    "Nome do Autor da Emenda": "ACELINO POPO",
+    "Nome Município": "CONDE",
+    "Nome Estado": "BAHIA",
+    "Nome Região": "Nordeste",
+    "Nome Função": "Saúde",
+    "Nome Subfunção": "Atenção básica",
+    "Valor Empenhado": "498820,7"
+  },
+  {
+    "Código da Emenda": 201527350010,
+    "Ano da Emenda": 2015,
+    "Nome do Autor da Emenda": "ACELINO POPO",
+    "Nome Município": "IRAQUARA",
+    "Nome Estado": "BAHIA",
+    "Nome Região": "Nordeste",
+    "Nome Função": "Comércio e serviços",
+    "Nome Subfunção": "Turismo",
+    "Valor Empenhado": 800000
+  },
+  {
+    "Código da Emenda": 201527350014,
+    "Ano da Emenda": 2015,
+    "Nome do Autor da Emenda": "ACELINO POPO",
+    "Nome Município": "IRAQUARA",
+    "Nome Estado": "BAHIA",
+    "Nome Região": "Nordeste",
+    "Nome Função": "Saúde",
+    "Nome Subfunção": "Atenção básica",
+    "Valor Empenhado": "181022,8"
+  }]
