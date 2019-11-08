@@ -63,9 +63,9 @@ const arangoRoutes = (app) => {
     })
 
     //buscando por filtro
-    app.get('/filterdoc/:collection/:filter', async(req, res) => {
+    app.get('/filterdoc/:collection/:object/:filter', async(req, res) => {
         let filterDoc = []
-        await db.query(`FOR emenda IN emendaCollection FILTER CONTAINS(emenda.Ano, '2015') RETURN emenda`).then(
+        await db.query(`FOR emenda IN ${req.params.collection} FILTER emenda.${req.params.object} ${req.params.filter} RETURN emenda`).then(
             cursor => cursor.map(doc => filterDoc.push(doc),
                 err => res.send('Failed to fetch all documents:', err)
             ));
