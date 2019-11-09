@@ -1,0 +1,4002 @@
+[
+  {
+    "Codigo": 201534200006,
+    "Municipio": "CURITIBA",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201534200007,
+    "Municipio": "FIGUEIRA",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201534200010,
+    "Municipio": "IBAITI",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201534200013,
+    "Municipio": "JACAREZINHO",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201534200014,
+    "Municipio": "JACAREZINHO",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201534200015,
+    "Municipio": "JAGUARIAÍVA",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201534200019,
+    "Municipio": "SANTO ANTÔNIO DA PLATINA",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201527350001,
+    "Municipio": "BELO CAMPO",
+    "Estado": "BAHIA",
+    "Regiao": "Nordeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201527350003,
+    "Municipio": "CANÁPOLIS",
+    "Estado": "BAHIA",
+    "Regiao": "Nordeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201527350013,
+    "Municipio": "CONDE",
+    "Estado": "BAHIA",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201527350010,
+    "Municipio": "IRAQUARA",
+    "Estado": "BAHIA",
+    "Regiao": "Nordeste",
+    "Funcao": "Comércio e serviços",
+    "Subfuncao": "Turismo"
+  },
+  {
+    "Codigo": 201527350014,
+    "Municipio": "IRAQUARA",
+    "Estado": "BAHIA",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201527350006,
+    "Municipio": "MORRO DO CHAPÉU",
+    "Estado": "BAHIA",
+    "Regiao": "Nordeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201527350020,
+    "Municipio": "MURITIBA",
+    "Estado": "BAHIA",
+    "Regiao": "Nordeste",
+    "Funcao": "Desporto e lazer",
+    "Subfuncao": "Desporto comunitário"
+  },
+  {
+    "Codigo": 201527350016,
+    "Municipio": "SEABRA",
+    "Estado": "BAHIA",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201526330005,
+    "Municipio": "CURITIBA",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201520750011,
+    "Municipio": "ARAÇUAÍ",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Cultura",
+    "Subfuncao": "Difusão cultural"
+  },
+  {
+    "Codigo": 201520750016,
+    "Municipio": "BONITO DE MINAS",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201520750024,
+    "Municipio": "BUGRE",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Comércio e serviços",
+    "Subfuncao": "Turismo"
+  },
+  {
+    "Codigo": 201520750004,
+    "Municipio": "CAPUTIRA",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201520750017,
+    "Municipio": "CÔNEGO MARINHO",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201520750001,
+    "Municipio": "CUPARAQUE",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201520750007,
+    "Municipio": "FREI GASPAR",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201520750014,
+    "Municipio": "JOÃO PINHEIRO",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Assistência social",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201520750008,
+    "Municipio": "MANTENA",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201520750019,
+    "Municipio": "MANTENA",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201520750002,
+    "Municipio": "MARTINS SOARES",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201520750006,
+    "Municipio": "SÃO JOSÉ DO JACURI",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201520750009,
+    "Municipio": "SÃO ROMÃO",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201527750003,
+    "Municipio": "ITABORAÍ",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201527750005,
+    "Municipio": "NOVA IGUAÇU",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201528890008,
+    "Municipio": "MONTES CLAROS",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201528890004,
+    "Municipio": "SÃO JOÃO DEL REI",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201528890010,
+    "Municipio": "SÃO JOÃO DEL REI",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201520180009,
+    "Municipio": "BARRETOS",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201520180006,
+    "Municipio": "CACHOEIRA DOURADA",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Saneamento básico urbano"
+  },
+  {
+    "Codigo": 201520180004,
+    "Municipio": "UBERABA",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Cultura",
+    "Subfuncao": "Difusão cultural"
+  },
+  {
+    "Codigo": 201520980008,
+    "Municipio": "SÃO FRANCISCO DE ASSIS",
+    "Estado": "RIO GRANDE DO SUL",
+    "Regiao": "Sul",
+    "Funcao": "Assistência social",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201529860002,
+    "Municipio": "APARECIDA DO TABOADO",
+    "Estado": "MATO GROSSO DO SUL",
+    "Regiao": "Centro-Oeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201529860007,
+    "Municipio": "COSTA RICA",
+    "Estado": "MATO GROSSO DO SUL",
+    "Regiao": "Centro-Oeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201529860019,
+    "Municipio": "TRÊS LAGOAS",
+    "Estado": "MATO GROSSO DO SUL",
+    "Regiao": "Centro-Oeste",
+    "Funcao": "Educação",
+    "Subfuncao": "Educação básica"
+  },
+  {
+    "Codigo": 201526940006,
+    "Municipio": "BACABAL",
+    "Estado": "MARANHÃO",
+    "Regiao": "Nordeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201526940005,
+    "Municipio": "MIRANDA DO NORTE",
+    "Estado": "MARANHÃO",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Saneamento básico urbano"
+  },
+  {
+    "Codigo": 201527960010,
+    "Municipio": "JAÚ",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201527960011,
+    "Municipio": "LEME",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201527960003,
+    "Municipio": "MARTINÓPOLIS",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Desporto e lazer",
+    "Subfuncao": "Desporto comunitário"
+  },
+  {
+    "Codigo": 201527960022,
+    "Municipio": "MARTINÓPOLIS",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201527960018,
+    "Municipio": "PIEDADE",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201527960008,
+    "Municipio": "SÃO PAULO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201527960009,
+    "Municipio": "SÃO PAULO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201527960012,
+    "Municipio": "SÃO PAULO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201528590015,
+    "Municipio": "RIOZINHO",
+    "Estado": "RIO GRANDE DO SUL",
+    "Regiao": "Sul",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201528590017,
+    "Municipio": "RIOZINHO",
+    "Estado": "RIO GRANDE DO SUL",
+    "Regiao": "Sul",
+    "Funcao": "Comércio e serviços",
+    "Subfuncao": "Turismo"
+  },
+  {
+    "Codigo": 201528590018,
+    "Municipio": "ROLANTE",
+    "Estado": "RIO GRANDE DO SUL",
+    "Regiao": "Sul",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201531150007,
+    "Municipio": "ITABORAÍ",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201531150009,
+    "Municipio": "ITABORAÍ",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201531150011,
+    "Municipio": "NOVA FRIBURGO",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201531150018,
+    "Municipio": "RIO DAS OSTRAS",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201531150019,
+    "Municipio": "SÃO PEDRO DA ALDEIA",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Segurança pública",
+    "Subfuncao": "Policiamento"
+  },
+  {
+    "Codigo": 201531150022,
+    "Municipio": "TANGUÁ",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201522270013,
+    "Municipio": "BELO ORIENTE",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201522270011,
+    "Municipio": "CURVELO",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201522270021,
+    "Municipio": "DORES DE GUANHÃES",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201522270014,
+    "Municipio": "JOANÉSIA",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201522270015,
+    "Municipio": "JOÃO PINHEIRO",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201522270020,
+    "Municipio": "PRESIDENTE JUSCELINO",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201522270016,
+    "Municipio": "VIRGINÓPOLIS",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201529620006,
+    "Municipio": "CAJUEIRO",
+    "Estado": "ALAGOAS",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201529620018,
+    "Municipio": "CAJUEIRO",
+    "Estado": "ALAGOAS",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201529620007,
+    "Municipio": "CAPELA",
+    "Estado": "ALAGOAS",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201529620011,
+    "Municipio": "MACEIÓ",
+    "Estado": "ALAGOAS",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201529620013,
+    "Municipio": "MACEIÓ",
+    "Estado": "ALAGOAS",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201529620008,
+    "Municipio": "PÃO DE AÇÚCAR",
+    "Estado": "ALAGOAS",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201529620015,
+    "Municipio": "PÃO DE AÇÚCAR",
+    "Estado": "ALAGOAS",
+    "Regiao": "Nordeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201529620014,
+    "Municipio": "PENEDO",
+    "Estado": "ALAGOAS",
+    "Regiao": "Nordeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201529620005,
+    "Municipio": "QUEBRANGULO",
+    "Estado": "ALAGOAS",
+    "Regiao": "Nordeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201529620009,
+    "Municipio": "QUEBRANGULO",
+    "Estado": "ALAGOAS",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201523990020,
+    "Municipio": "CURITIBA",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Direitos da cidadania",
+    "Subfuncao": "Assistência ao portador de deficiência"
+  },
+  {
+    "Codigo": 201523990001,
+    "Municipio": "FIGUEIRA",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201523990006,
+    "Municipio": "FLORAÍ",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201523990009,
+    "Municipio": "IBAITI",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Agricultura",
+    "Subfuncao": "Promoção da produção agropecuária"
+  },
+  {
+    "Codigo": 201523990003,
+    "Municipio": "ICARAÍMA",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201523990008,
+    "Municipio": "ICARAÍMA",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Desporto e lazer",
+    "Subfuncao": "Desporto comunitário"
+  },
+  {
+    "Codigo": 201523990004,
+    "Municipio": "IPORÃ",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201523990005,
+    "Municipio": "ROLÂNDIA",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201523990017,
+    "Municipio": "TOLEDO",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201523990015,
+    "Municipio": "UMUARAMA",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201523990016,
+    "Municipio": "UMUARAMA",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201526370001,
+    "Municipio": "CAREIRO DA VÁRZEA",
+    "Estado": "AMAZONAS",
+    "Regiao": "Norte",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201526370002,
+    "Municipio": "CAREIRO DA VÁRZEA",
+    "Estado": "AMAZONAS",
+    "Regiao": "Norte",
+    "Funcao": "Saúde",
+    "Subfuncao": "Saneamento básico rural"
+  },
+  {
+    "Codigo": 201526370003,
+    "Municipio": "ITACOATIARA",
+    "Estado": "AMAZONAS",
+    "Regiao": "Norte",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201526370011,
+    "Municipio": "MAUÉS",
+    "Estado": "AMAZONAS",
+    "Regiao": "Norte",
+    "Funcao": "Saúde",
+    "Subfuncao": "Saneamento básico rural"
+  },
+  {
+    "Codigo": 201526370012,
+    "Municipio": "PARINTINS",
+    "Estado": "AMAZONAS",
+    "Regiao": "Norte",
+    "Funcao": "Educação",
+    "Subfuncao": "Ensino superior"
+  },
+  {
+    "Codigo": 201526370004,
+    "Municipio": "SÃO GABRIEL DA CACHOEIRA",
+    "Estado": "AMAZONAS",
+    "Regiao": "Norte",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201513310011,
+    "Municipio": "POÇÕES",
+    "Estado": "BAHIA",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201513310008,
+    "Municipio": "SÃO FELIPE",
+    "Estado": "BAHIA",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Saneamento básico rural"
+  },
+  {
+    "Codigo": 201525180009,
+    "Municipio": "ANGATUBA",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201525180024,
+    "Municipio": "CAMPINAS",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201525180003,
+    "Municipio": "CATANDUVA",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201525180012,
+    "Municipio": "ITUVERAVA",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201525180014,
+    "Municipio": "RIBEIRÃO GRANDE",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201525180016,
+    "Municipio": "RIO CLARO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201525180020,
+    "Municipio": "TAQUARITUBA",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Assistência social",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201528860013,
+    "Municipio": "SÃO JOSÉ DO RIO PRETO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201528860014,
+    "Municipio": "SÃO JOSÉ DO RIO PRETO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Educação",
+    "Subfuncao": "Ensino superior"
+  },
+  {
+    "Codigo": 201528860018,
+    "Municipio": "SÃO JOSÉ DO RIO PRETO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Assistência social",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201528860003,
+    "Municipio": "SÃO PAULO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201528860011,
+    "Municipio": "SÃO PAULO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201527360010,
+    "Municipio": "JACOBINA",
+    "Estado": "BAHIA",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201527360013,
+    "Municipio": "JACOBINA",
+    "Estado": "BAHIA",
+    "Regiao": "Nordeste",
+    "Funcao": "Educação",
+    "Subfuncao": "Educação básica"
+  },
+  {
+    "Codigo": 201527360022,
+    "Municipio": "JACOBINA",
+    "Estado": "BAHIA",
+    "Regiao": "Nordeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201528930002,
+    "Municipio": "RIO PARDO",
+    "Estado": "RIO GRANDE DO SUL",
+    "Regiao": "Sul",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201528980011,
+    "Municipio": "VILA VELHA",
+    "Estado": "ESPÍRITO SANTO",
+    "Regiao": "Sudeste",
+    "Funcao": "Gestão ambiental",
+    "Subfuncao": "Formação de recursos humanos"
+  },
+  {
+    "Codigo": 201527170002,
+    "Municipio": "RECIFE",
+    "Estado": "PERNAMBUCO",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201520830007,
+    "Municipio": "ARACATI",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Educação",
+    "Subfuncao": "Ensino profissional"
+  },
+  {
+    "Codigo": 201520830002,
+    "Municipio": "MILAGRES",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201519620009,
+    "Municipio": "ATALAIA",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201519620003,
+    "Municipio": "CAFEZAL DO SUL",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201519620001,
+    "Municipio": "FLORAÍ",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Agricultura",
+    "Subfuncao": "Promoção da produção agropecuária"
+  },
+  {
+    "Codigo": 201519620004,
+    "Municipio": "JAGUARIAÍVA",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201519620002,
+    "Municipio": "JAPURÁ",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201519620005,
+    "Municipio": "TERRA BOA",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201524950005,
+    "Municipio": "BELFORD ROXO",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201524950007,
+    "Municipio": "NILÓPOLIS",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201524950002,
+    "Municipio": "NOVA IGUAÇU",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Educação",
+    "Subfuncao": "Transferências para a educação básica"
+  },
+  {
+    "Codigo": 201526890003,
+    "Municipio": "GURUPI",
+    "Estado": "TOCANTINS",
+    "Regiao": "Norte",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201525570012,
+    "Municipio": "JAGUARIAÍVA",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201525570013,
+    "Municipio": "NOVA PRATA DO IGUAÇU",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201525570007,
+    "Municipio": "PINHAIS",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Comércio e serviços",
+    "Subfuncao": "Turismo"
+  },
+  {
+    "Codigo": 201525570016,
+    "Municipio": "SÃO MATEUS DO SUL",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201529120001,
+    "Municipio": "BUJARI",
+    "Estado": "ACRE",
+    "Regiao": "Norte",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201529120006,
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Estado": "ACRE",
+    "Regiao": "Norte",
+    "Funcao": "Organização agrária",
+    "Subfuncao": "Ordenamento territorial"
+  },
+  {
+    "Codigo": 201529120008,
+    "Municipio": "RIO BRANCO",
+    "Estado": "ACRE",
+    "Regiao": "Norte",
+    "Funcao": "Desporto e lazer",
+    "Subfuncao": "Desporto comunitário"
+  },
+  {
+    "Codigo": 201529120010,
+    "Municipio": "RIO BRANCO",
+    "Estado": "ACRE",
+    "Regiao": "Norte",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201529120011,
+    "Municipio": "RODRIGUES ALVES",
+    "Estado": "ACRE",
+    "Regiao": "Norte",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201529120005,
+    "Municipio": "SÃO PAULO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201529120015,
+    "Municipio": "SENA MADUREIRA",
+    "Estado": "ACRE",
+    "Regiao": "Norte",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201529120016,
+    "Municipio": "TARAUACÁ",
+    "Estado": "ACRE",
+    "Regiao": "Norte",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201511580001,
+    "Municipio": "JI-PARANÁ",
+    "Estado": "RONDÔNIA",
+    "Regiao": "Norte",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201511580007,
+    "Municipio": "JI-PARANÁ",
+    "Estado": "RONDÔNIA",
+    "Regiao": "Norte",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201511580009,
+    "Municipio": "JI-PARANÁ",
+    "Estado": "RONDÔNIA",
+    "Regiao": "Norte",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201511580016,
+    "Municipio": "PRESIDENTE MÉDICI",
+    "Estado": "RONDÔNIA",
+    "Regiao": "Norte",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201511580017,
+    "Municipio": "SÃO MIGUEL DO GUAPORÉ",
+    "Estado": "RONDÔNIA",
+    "Regiao": "Norte",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201511580002,
+    "Municipio": "TEIXEIRÓPOLIS",
+    "Estado": "RONDÔNIA",
+    "Regiao": "Norte",
+    "Funcao": "Organização agrária",
+    "Subfuncao": "Extensão rural"
+  },
+  {
+    "Codigo": 201511580011,
+    "Municipio": "TEIXEIRÓPOLIS",
+    "Estado": "RONDÔNIA",
+    "Regiao": "Norte",
+    "Funcao": "Organização agrária",
+    "Subfuncao": "Extensão rural"
+  },
+  {
+    "Codigo": 201526860002,
+    "Municipio": "BUJARI",
+    "Estado": "ACRE",
+    "Regiao": "Norte",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201526860007,
+    "Municipio": "EPITACIOLÂNDIA",
+    "Estado": "ACRE",
+    "Regiao": "Norte",
+    "Funcao": "Desporto e lazer",
+    "Subfuncao": "Desporto comunitário"
+  },
+  {
+    "Codigo": 201526860008,
+    "Municipio": "EPITACIOLÂNDIA",
+    "Estado": "ACRE",
+    "Regiao": "Norte",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201526860001,
+    "Municipio": "MANOEL URBANO",
+    "Estado": "ACRE",
+    "Regiao": "Norte",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201526860011,
+    "Municipio": "RIO BRANCO",
+    "Estado": "ACRE",
+    "Regiao": "Norte",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201526860005,
+    "Municipio": "XAPURI",
+    "Estado": "ACRE",
+    "Regiao": "Norte",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201524730004,
+    "Municipio": "BELO HORIZONTE",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201524730014,
+    "Municipio": "CARMO DO PARANAÍBA",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201529990005,
+    "Municipio": "BELO HORIZONTE",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Defesa terrestre"
+  },
+  {
+    "Codigo": 201529990007,
+    "Municipio": "BELO HORIZONTE",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201529990015,
+    "Municipio": "SÃO LOURENÇO",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201527370001,
+    "Municipio": "ITAPETINGA",
+    "Estado": "BAHIA",
+    "Regiao": "Nordeste",
+    "Funcao": "Direitos da cidadania",
+    "Subfuncao": "Direitos individuais, coletivos e difusos"
+  },
+  {
+    "Codigo": 201527370008,
+    "Municipio": "JEQUIÉ",
+    "Estado": "BAHIA",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201525190008,
+    "Municipio": "EMBU-GUAÇU",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201525190009,
+    "Municipio": "ITARARÉ",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Segurança pública",
+    "Subfuncao": "Policiamento"
+  },
+  {
+    "Codigo": 201525190006,
+    "Municipio": "TABOÃO DA SERRA",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201522460001,
+    "Municipio": "ARACAJU",
+    "Estado": "SERGIPE",
+    "Regiao": "Nordeste",
+    "Funcao": "Cultura",
+    "Subfuncao": "Patrimônio histórico, artístico e arqueológico"
+  },
+  {
+    "Codigo": 201522460015,
+    "Municipio": "ARACAJU",
+    "Estado": "SERGIPE",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201522460004,
+    "Municipio": "PINHÃO",
+    "Estado": "SERGIPE",
+    "Regiao": "Nordeste",
+    "Funcao": "Agricultura",
+    "Subfuncao": "Promoção da produção agropecuária"
+  },
+  {
+    "Codigo": 201522460005,
+    "Municipio": "SIMÃO DIAS",
+    "Estado": "SERGIPE",
+    "Regiao": "Nordeste",
+    "Funcao": "Agricultura",
+    "Subfuncao": "Promoção da produção agropecuária"
+  },
+  {
+    "Codigo": 201527380024,
+    "Municipio": "ITAPETINGA",
+    "Estado": "BAHIA",
+    "Regiao": "Nordeste",
+    "Funcao": "Agricultura",
+    "Subfuncao": "Promoção da produção agropecuária"
+  },
+  {
+    "Codigo": 201527380016,
+    "Municipio": "SALVADOR",
+    "Estado": "BAHIA",
+    "Regiao": "Nordeste",
+    "Funcao": "Assistência social",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201516530003,
+    "Municipio": "FORTALEZA",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Educação",
+    "Subfuncao": "Ensino profissional"
+  },
+  {
+    "Codigo": 201516530011,
+    "Municipio": "ITAIÇABA",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Ciência e Tecnologia",
+    "Subfuncao": "Desenvolvimento científico"
+  },
+  {
+    "Codigo": 201516530008,
+    "Municipio": "LIMOEIRO DO NORTE",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Educação",
+    "Subfuncao": "Ensino profissional"
+  },
+  {
+    "Codigo": 201516530009,
+    "Municipio": "MARACANAÚ",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Educação",
+    "Subfuncao": "Ensino profissional"
+  },
+  {
+    "Codigo": 201516530007,
+    "Municipio": "TABULEIRO DO NORTE",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Educação",
+    "Subfuncao": "Ensino profissional"
+  },
+  {
+    "Codigo": 201528840003,
+    "Municipio": "CARUARU",
+    "Estado": "PERNAMBUCO",
+    "Regiao": "Nordeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201528840001,
+    "Municipio": "IGUARACI",
+    "Estado": "PERNAMBUCO",
+    "Regiao": "Nordeste",
+    "Funcao": "Agricultura",
+    "Subfuncao": "Promoção da produção agropecuária"
+  },
+  {
+    "Codigo": 201528840012,
+    "Municipio": "SANTA CRUZ DA BAIXA VERDE",
+    "Estado": "PERNAMBUCO",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201528840009,
+    "Municipio": "TABIRA",
+    "Estado": "PERNAMBUCO",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201528840002,
+    "Municipio": "VITÓRIA DE SANTO ANTÃO",
+    "Estado": "PERNAMBUCO",
+    "Regiao": "Nordeste",
+    "Funcao": "Direitos da cidadania",
+    "Subfuncao": "Direitos individuais, coletivos e difusos"
+  },
+  {
+    "Codigo": 201528320014,
+    "Municipio": "FORMOSA",
+    "Estado": "GOIÁS",
+    "Regiao": "Centro-Oeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201528320006,
+    "Municipio": "GOIÂNIA",
+    "Estado": "GOIÁS",
+    "Regiao": "Centro-Oeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201528320007,
+    "Municipio": "GOIÂNIA",
+    "Estado": "GOIÁS",
+    "Regiao": "Centro-Oeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201528320009,
+    "Municipio": "GOIÂNIA",
+    "Estado": "GOIÁS",
+    "Regiao": "Centro-Oeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201528320020,
+    "Municipio": "MAURILÂNDIA",
+    "Estado": "GOIÁS",
+    "Regiao": "Centro-Oeste",
+    "Funcao": "Ciência e Tecnologia",
+    "Subfuncao": "Promoção comercial"
+  },
+  {
+    "Codigo": 201514100003,
+    "Municipio": "BARRETOS",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201514100002,
+    "Municipio": "SÃO PAULO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201514100004,
+    "Municipio": "SÃO PAULO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201514100011,
+    "Municipio": "SÃO PAULO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201514100012,
+    "Municipio": "SÃO PAULO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201514100013,
+    "Municipio": "SÃO PAULO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201514100015,
+    "Municipio": "SÃO PAULO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201514100016,
+    "Municipio": "SÃO PAULO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201514100017,
+    "Municipio": "SÃO PAULO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201514100023,
+    "Municipio": "SÃO PAULO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201526780005,
+    "Municipio": "ELDORADO DOS CARAJÁS",
+    "Estado": "PARÁ",
+    "Regiao": "Norte",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201531380001,
+    "Municipio": "CAMOCIM",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201531380003,
+    "Municipio": "CRATO",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201531380010,
+    "Municipio": "FORTALEZA",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Agricultura",
+    "Subfuncao": "Promoção da produção agropecuária"
+  },
+  {
+    "Codigo": 201531380005,
+    "Municipio": "FRECHEIRINHA",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Indústria",
+    "Subfuncao": "Empregabilidade"
+  },
+  {
+    "Codigo": 201531380002,
+    "Municipio": "JUAZEIRO DO NORTE",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201531380009,
+    "Municipio": "MARACANAÚ",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Comércio e serviços",
+    "Subfuncao": "Turismo"
+  },
+  {
+    "Codigo": 201531380006,
+    "Municipio": "SÃO GONÇALO DO AMARANTE",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Indústria",
+    "Subfuncao": "Empregabilidade"
+  },
+  {
+    "Codigo": 201513080005,
+    "Municipio": "BELFORD ROXO",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201513080009,
+    "Municipio": "JAPERI",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201513080012,
+    "Municipio": "MESQUITA",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201513080001,
+    "Municipio": "RIO DE JANEIRO",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201513080023,
+    "Municipio": "RIO DE JANEIRO",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Comércio e serviços",
+    "Subfuncao": "Turismo"
+  },
+  {
+    "Codigo": 201513080021,
+    "Municipio": "SÃO PEDRO DA ALDEIA",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201527260001,
+    "Municipio": "MACEIÓ",
+    "Estado": "ALAGOAS",
+    "Regiao": "Nordeste",
+    "Funcao": "Comércio e serviços",
+    "Subfuncao": "Turismo"
+  },
+  {
+    "Codigo": 201526990007,
+    "Municipio": "ACARAÚ",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Desporto e lazer",
+    "Subfuncao": "Desporto comunitário"
+  },
+  {
+    "Codigo": 201526990001,
+    "Municipio": "BOA VIAGEM",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Agricultura",
+    "Subfuncao": "Promoção da produção agropecuária"
+  },
+  {
+    "Codigo": 201526990003,
+    "Municipio": "BOA VIAGEM",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201526990023,
+    "Municipio": "BOA VIAGEM",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201526990004,
+    "Municipio": "CAUCAIA",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201526990015,
+    "Municipio": "CAUCAIA",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201526990010,
+    "Municipio": "FORTALEZA",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Desporto e lazer",
+    "Subfuncao": "Desporto comunitário"
+  },
+  {
+    "Codigo": 201526990019,
+    "Municipio": "ITAITINGA",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201526990021,
+    "Municipio": "MARACANAÚ",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201526990005,
+    "Municipio": "MIRAÍMA",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201526990006,
+    "Municipio": "PACAJUS",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Educação",
+    "Subfuncao": "Educação básica"
+  },
+  {
+    "Codigo": 201526990011,
+    "Municipio": "PACATUBA",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Desporto e lazer",
+    "Subfuncao": "Desporto comunitário"
+  },
+  {
+    "Codigo": 201526990022,
+    "Municipio": "RUSSAS",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201519630003,
+    "Municipio": "CURITIBA",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Direitos da cidadania",
+    "Subfuncao": "Assistência ao portador de deficiência"
+  },
+  {
+    "Codigo": 201528600001,
+    "Municipio": "NOVA BASSANO",
+    "Estado": "RIO GRANDE DO SUL",
+    "Regiao": "Sul",
+    "Funcao": "Agricultura",
+    "Subfuncao": "Promoção da produção agropecuária"
+  },
+  {
+    "Codigo": 201529310003,
+    "Municipio": "ARAGUAÍNA",
+    "Estado": "TOCANTINS",
+    "Regiao": "Norte",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201529310006,
+    "Municipio": "BARRETOS",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201527780005,
+    "Municipio": "DUQUE DE CAXIAS",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201527780006,
+    "Municipio": "DUQUE DE CAXIAS",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Educação",
+    "Subfuncao": "Educação básica"
+  },
+  {
+    "Codigo": 201513100002,
+    "Municipio": "DUQUE DE CAXIAS",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Desporto e lazer",
+    "Subfuncao": "Desporto comunitário"
+  },
+  {
+    "Codigo": 201513100008,
+    "Municipio": "MARICÁ",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Cultura",
+    "Subfuncao": "Difusão cultural"
+  },
+  {
+    "Codigo": 201513100009,
+    "Municipio": "MARICÁ",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Direitos da cidadania",
+    "Subfuncao": "Direitos individuais, coletivos e difusos"
+  },
+  {
+    "Codigo": 201513100010,
+    "Municipio": "MARICÁ",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Desporto e lazer",
+    "Subfuncao": "Desporto comunitário"
+  },
+  {
+    "Codigo": 201513100013,
+    "Municipio": "RIO DE JANEIRO",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Direitos da cidadania",
+    "Subfuncao": "Direitos individuais, coletivos e difusos"
+  },
+  {
+    "Codigo": 201529070013,
+    "Municipio": "MACEIÓ",
+    "Estado": "ALAGOAS",
+    "Regiao": "Nordeste",
+    "Funcao": "Cultura",
+    "Subfuncao": "Difusão cultural"
+  },
+  {
+    "Codigo": 201526680003,
+    "Municipio": "CAROEBE",
+    "Estado": "RORAIMA",
+    "Regiao": "Norte",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201590140017,
+    "Municipio": "PASSO FUNDO",
+    "Estado": "RIO GRANDE DO SUL",
+    "Regiao": "Sul",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201514370005,
+    "Municipio": "CAARAPÓ",
+    "Estado": "MATO GROSSO DO SUL",
+    "Regiao": "Centro-Oeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201514370019,
+    "Municipio": "COXIM",
+    "Estado": "MATO GROSSO DO SUL",
+    "Regiao": "Centro-Oeste",
+    "Funcao": "Agricultura",
+    "Subfuncao": "Promoção da produção agropecuária"
+  },
+  {
+    "Codigo": 201514370006,
+    "Municipio": "JAPORÃ",
+    "Estado": "MATO GROSSO DO SUL",
+    "Regiao": "Centro-Oeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201514370021,
+    "Municipio": "JAPORÃ",
+    "Estado": "MATO GROSSO DO SUL",
+    "Regiao": "Centro-Oeste",
+    "Funcao": "Desporto e lazer",
+    "Subfuncao": "Desporto comunitário"
+  },
+  {
+    "Codigo": 201522150007,
+    "Municipio": "ITAJUBÁ",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Educação",
+    "Subfuncao": "Ensino superior"
+  },
+  {
+    "Codigo": 201523400006,
+    "Municipio": "CUIABÁ",
+    "Estado": "MATO GROSSO",
+    "Regiao": "Centro-Oeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201523400007,
+    "Municipio": "RONDONÓPOLIS",
+    "Estado": "MATO GROSSO",
+    "Regiao": "Centro-Oeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201519280001,
+    "Municipio": "ARAGUARI",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201519280003,
+    "Municipio": "BARBACENA",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201519280009,
+    "Municipio": "DORES DO TURVO",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201519280018,
+    "Municipio": "PIEDADE DO RIO GRANDE",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201519280020,
+    "Municipio": "RESSAQUINHA",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201519280021,
+    "Municipio": "RIO ESPERA",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201519280023,
+    "Municipio": "SENHORA DOS REMÉDIOS",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201519280024,
+    "Municipio": "SOBRÁLIA",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201519280025,
+    "Municipio": "TOCANTINS",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201527970017,
+    "Municipio": "BARRETOS",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201527970022,
+    "Municipio": "CABREÚVA",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201527970013,
+    "Municipio": "CAJAMAR",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201527970024,
+    "Municipio": "COTIA",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Desporto e lazer",
+    "Subfuncao": "Desporto comunitário"
+  },
+  {
+    "Codigo": 201527970007,
+    "Municipio": "IBIÚNA",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201527970001,
+    "Municipio": "ITAPEVI",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201527970005,
+    "Municipio": "JANDIRA",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201527970010,
+    "Municipio": "SANTANA DE PARNAÍBA",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201527970016,
+    "Municipio": "SÃO PAULO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201524940014,
+    "Municipio": "CACHOEIRO DE ITAPEMIRIM",
+    "Estado": "ESPÍRITO SANTO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201524940010,
+    "Municipio": "CASTELO",
+    "Estado": "ESPÍRITO SANTO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201525410005,
+    "Municipio": "BASTOS",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201525410013,
+    "Municipio": "PEREIRA BARRETO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201519530013,
+    "Municipio": "MINAÇU",
+    "Estado": "GOIÁS",
+    "Regiao": "Centro-Oeste",
+    "Funcao": "Agricultura",
+    "Subfuncao": "Promoção da produção agropecuária"
+  },
+  {
+    "Codigo": 201524310001,
+    "Municipio": "CAXIAS",
+    "Estado": "MARANHÃO",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201510710007,
+    "Municipio": "BELÉM DE MARIA",
+    "Estado": "PERNAMBUCO",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201510710002,
+    "Municipio": "CAMARAGIBE",
+    "Estado": "PERNAMBUCO",
+    "Regiao": "Nordeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201510710013,
+    "Municipio": "CAMARAGIBE",
+    "Estado": "PERNAMBUCO",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201510710012,
+    "Municipio": "CATENDE",
+    "Estado": "PERNAMBUCO",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201510710006,
+    "Municipio": "MARAIAL",
+    "Estado": "PERNAMBUCO",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201510710021,
+    "Municipio": "NAZARÉ DA MATA",
+    "Estado": "PERNAMBUCO",
+    "Regiao": "Nordeste",
+    "Funcao": "Cultura",
+    "Subfuncao": "Difusão cultural"
+  },
+  {
+    "Codigo": 201510710009,
+    "Municipio": "PAULISTA",
+    "Estado": "PERNAMBUCO",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201510710005,
+    "Municipio": "RECIFE",
+    "Estado": "PERNAMBUCO",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201510710020,
+    "Municipio": "RECIFE",
+    "Estado": "PERNAMBUCO",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Desenvolvimento científico"
+  },
+  {
+    "Codigo": 201526840005,
+    "Municipio": "BURITIS",
+    "Estado": "RONDÔNIA",
+    "Regiao": "Norte",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201526840010,
+    "Municipio": "ESPIGÃO D'OESTE",
+    "Estado": "RONDÔNIA",
+    "Regiao": "Norte",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201526840011,
+    "Municipio": "JI-PARANÁ",
+    "Estado": "RONDÔNIA",
+    "Regiao": "Norte",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201526840013,
+    "Municipio": "SÃO FRANCISCO DO GUAPORÉ",
+    "Estado": "RONDÔNIA",
+    "Regiao": "Norte",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201514130003,
+    "Municipio": "CARIACICA",
+    "Estado": "ESPÍRITO SANTO",
+    "Regiao": "Sudeste",
+    "Funcao": "Assistência social",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201514130007,
+    "Municipio": "JAGUARÉ",
+    "Estado": "ESPÍRITO SANTO",
+    "Regiao": "Sudeste",
+    "Funcao": "Desporto e lazer",
+    "Subfuncao": "Desporto comunitário"
+  },
+  {
+    "Codigo": 201522530002,
+    "Municipio": "MODELO",
+    "Estado": "SANTA CATARINA",
+    "Regiao": "Sul",
+    "Funcao": "Comércio e serviços",
+    "Subfuncao": "Turismo"
+  },
+  {
+    "Codigo": 201522530010,
+    "Municipio": "SÃO MIGUEL DO OESTE",
+    "Estado": "SANTA CATARINA",
+    "Regiao": "Sul",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201529460002,
+    "Municipio": "CAMPINA GRANDE",
+    "Estado": "PARAÍBA",
+    "Regiao": "Nordeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201529460014,
+    "Municipio": "CAMPINA GRANDE",
+    "Estado": "PARAÍBA",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201529460006,
+    "Municipio": "GUARABIRA",
+    "Estado": "PARAÍBA",
+    "Regiao": "Nordeste",
+    "Funcao": "Comércio e serviços",
+    "Subfuncao": "Turismo"
+  },
+  {
+    "Codigo": 201529460003,
+    "Municipio": "JOÃO PESSOA",
+    "Estado": "PARAÍBA",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201529460013,
+    "Municipio": "JOÃO PESSOA",
+    "Estado": "PARAÍBA",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201526900005,
+    "Municipio": "ARAGUAÍNA",
+    "Estado": "TOCANTINS",
+    "Regiao": "Norte",
+    "Funcao": "Agricultura",
+    "Subfuncao": "Promoção da produção agropecuária"
+  },
+  {
+    "Codigo": 201519640001,
+    "Municipio": "BOA VENTURA DE SÃO ROQUE",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201519640004,
+    "Municipio": "GUARAPUAVA",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201519640006,
+    "Municipio": "GUARAPUAVA",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201519640007,
+    "Municipio": "GUARAPUAVA",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "Transportes coletivos urbanos"
+  },
+  {
+    "Codigo": 201519640011,
+    "Municipio": "LARANJAL",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201519640014,
+    "Municipio": "NOVA LARANJEIRAS",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Desporto e lazer",
+    "Subfuncao": "Desporto comunitário"
+  },
+  {
+    "Codigo": 201519640019,
+    "Municipio": "PRUDENTÓPOLIS",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201514680014,
+    "Municipio": "BARRA MANSA",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201514680008,
+    "Municipio": "RIO DE JANEIRO",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201526690003,
+    "Municipio": "AMAJARI",
+    "Estado": "RORAIMA",
+    "Regiao": "Norte",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201526690001,
+    "Municipio": "SÃO JOÃO DA BALIZA",
+    "Estado": "RORAIMA",
+    "Regiao": "Norte",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201524370014,
+    "Municipio": "ARACATI",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201524370019,
+    "Municipio": "ARARIPE",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201524370006,
+    "Municipio": "CRATEÚS",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Assistência social",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201524370016,
+    "Municipio": "CRATO",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201524370012,
+    "Municipio": "FARIAS BRITO",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "Transportes coletivos urbanos"
+  },
+  {
+    "Codigo": 201524370002,
+    "Municipio": "FORTALEZA",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Administração",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201524370025,
+    "Municipio": "HORIZONTE",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201524370011,
+    "Municipio": "INDEPENDÊNCIA",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201524370021,
+    "Municipio": "MARACANAÚ",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201523770008,
+    "Municipio": "CABEDELO",
+    "Estado": "PARAÍBA",
+    "Regiao": "Nordeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201523770009,
+    "Municipio": "JOÃO PESSOA",
+    "Estado": "PARAÍBA",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201531660001,
+    "Municipio": "SALVADOR",
+    "Estado": "BAHIA",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201524100001,
+    "Municipio": "MACAPÁ",
+    "Estado": "AMAPÁ",
+    "Regiao": "Norte",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201524100007,
+    "Municipio": "MACAPÁ",
+    "Estado": "AMAPÁ",
+    "Regiao": "Norte",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201524100003,
+    "Municipio": "PORTO GRANDE",
+    "Estado": "AMAPÁ",
+    "Regiao": "Norte",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201535300010,
+    "Municipio": "CAMPINA GRANDE",
+    "Estado": "PARAÍBA",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201535300013,
+    "Municipio": "JOÃO PESSOA",
+    "Estado": "PARAÍBA",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201513390010,
+    "Municipio": "GUANAMBI",
+    "Estado": "BAHIA",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201513390016,
+    "Municipio": "SALVADOR",
+    "Estado": "BAHIA",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201513390017,
+    "Municipio": "SALVADOR",
+    "Estado": "BAHIA",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201531730006,
+    "Municipio": "CRUZ ALTA",
+    "Estado": "RIO GRANDE DO SUL",
+    "Regiao": "Sul",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201531730008,
+    "Municipio": "IJUÍ",
+    "Estado": "RIO GRANDE DO SUL",
+    "Regiao": "Sul",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201531730014,
+    "Municipio": "IJUÍ",
+    "Estado": "RIO GRANDE DO SUL",
+    "Regiao": "Sul",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201531730011,
+    "Municipio": "PANAMBI",
+    "Estado": "RIO GRANDE DO SUL",
+    "Regiao": "Sul",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201531730009,
+    "Municipio": "SANTO ÂNGELO",
+    "Estado": "RIO GRANDE DO SUL",
+    "Regiao": "Sul",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201531730018,
+    "Municipio": "SANTO ÂNGELO",
+    "Estado": "RIO GRANDE DO SUL",
+    "Regiao": "Sul",
+    "Funcao": "Ciência e Tecnologia",
+    "Subfuncao": "Desenvolvimento tecnológico e engenharia"
+  },
+  {
+    "Codigo": 201531730010,
+    "Municipio": "SANTO AUGUSTO",
+    "Estado": "RIO GRANDE DO SUL",
+    "Regiao": "Sul",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201511300001,
+    "Municipio": "ITAUBAL",
+    "Estado": "AMAPÁ",
+    "Regiao": "Norte",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201511300002,
+    "Municipio": "MACAPÁ",
+    "Estado": "AMAPÁ",
+    "Regiao": "Norte",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201511300003,
+    "Municipio": "MACAPÁ",
+    "Estado": "AMAPÁ",
+    "Regiao": "Norte",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201511300004,
+    "Municipio": "MACAPÁ",
+    "Estado": "AMAPÁ",
+    "Regiao": "Norte",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201511300007,
+    "Municipio": "OIAPOQUE",
+    "Estado": "AMAPÁ",
+    "Regiao": "Norte",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201511300008,
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Estado": "AMAPÁ",
+    "Regiao": "Norte",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201511300009,
+    "Municipio": "PORTO GRANDE",
+    "Estado": "AMAPÁ",
+    "Regiao": "Norte",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201511300012,
+    "Municipio": "SANTANA",
+    "Estado": "AMAPÁ",
+    "Regiao": "Norte",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201511300013,
+    "Municipio": "SANTANA",
+    "Estado": "AMAPÁ",
+    "Regiao": "Norte",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201511300014,
+    "Municipio": "SERRA DO NAVIO",
+    "Estado": "AMAPÁ",
+    "Regiao": "Norte",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201527980002,
+    "Municipio": "BOTUCATU",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Desporto e lazer",
+    "Subfuncao": "Desporto comunitário"
+  },
+  {
+    "Codigo": 201527980005,
+    "Municipio": "BRAGANÇA PAULISTA",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Desporto e lazer",
+    "Subfuncao": "Desporto comunitário"
+  },
+  {
+    "Codigo": 201527980001,
+    "Municipio": "JUNDIAÍ",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Cultura",
+    "Subfuncao": "Difusão cultural"
+  },
+  {
+    "Codigo": 201527980013,
+    "Municipio": "JUNDIAÍ",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201527980008,
+    "Municipio": "SÃO PAULO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Direitos da cidadania",
+    "Subfuncao": "Direitos individuais, coletivos e difusos"
+  },
+  {
+    "Codigo": 201515310001,
+    "Municipio": "PALMEIRA D'OESTE",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Agricultura",
+    "Subfuncao": "Promoção da produção agropecuária"
+  },
+  {
+    "Codigo": 201515310004,
+    "Municipio": "SÃO PEDRO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201531760004,
+    "Municipio": "MATELÂNDIA",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201531760013,
+    "Municipio": "MEDIANEIRA",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201531790016,
+    "Municipio": "LAGOA GRANDE DO MARANHÃO",
+    "Estado": "MARANHÃO",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Saneamento básico urbano"
+  },
+  {
+    "Codigo": 201531790018,
+    "Municipio": "LAGOA GRANDE DO MARANHÃO",
+    "Estado": "MARANHÃO",
+    "Regiao": "Nordeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201527010001,
+    "Municipio": "TAUÁ",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Agricultura",
+    "Subfuncao": "Promoção da produção agropecuária"
+  },
+  {
+    "Codigo": 201527010002,
+    "Municipio": "TAUÁ",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Agricultura",
+    "Subfuncao": "Promoção da produção agropecuária"
+  },
+  {
+    "Codigo": 201527010005,
+    "Municipio": "TAUÁ",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Cultura",
+    "Subfuncao": "Difusão cultural"
+  },
+  {
+    "Codigo": 201524990002,
+    "Municipio": "CACHOEIRAS DE MACACU",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201524990001,
+    "Municipio": "ITABORAÍ",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201527570004,
+    "Municipio": "MOEMA",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201527570005,
+    "Municipio": "PEDRA DO INDAIÁ",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201527570006,
+    "Municipio": "SÃO ROMÃO",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201527720005,
+    "Municipio": "JAGUARÉ",
+    "Estado": "ESPÍRITO SANTO",
+    "Regiao": "Sudeste",
+    "Funcao": "Desporto e lazer",
+    "Subfuncao": "Desporto comunitário"
+  },
+  {
+    "Codigo": 201532790001,
+    "Municipio": "MANAUS",
+    "Estado": "AMAZONAS",
+    "Regiao": "Norte",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201532790002,
+    "Municipio": "MANAUS",
+    "Estado": "AMAZONAS",
+    "Regiao": "Norte",
+    "Funcao": "Saúde",
+    "Subfuncao": "Suporte profilático e terapêutico"
+  },
+  {
+    "Codigo": 201532790003,
+    "Municipio": "MANAUS",
+    "Estado": "AMAZONAS",
+    "Regiao": "Norte",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201536450009,
+    "Municipio": "APUCARANA",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201536450010,
+    "Municipio": "CASCAVEL",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Organização agrária",
+    "Subfuncao": "Reforma agrária"
+  },
+  {
+    "Codigo": 201536450007,
+    "Municipio": "CURITIBA",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201536450014,
+    "Municipio": "GOIOXIM",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Organização agrária",
+    "Subfuncao": "Ordenamento territorial"
+  },
+  {
+    "Codigo": 201536450017,
+    "Municipio": "LAPA",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Organização agrária",
+    "Subfuncao": "Ordenamento territorial"
+  },
+  {
+    "Codigo": 201536450019,
+    "Municipio": "PALMITAL",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201536450021,
+    "Municipio": "SANTA MARIA DO OESTE",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Organização agrária",
+    "Subfuncao": "Ordenamento territorial"
+  },
+  {
+    "Codigo": 201521830004,
+    "Municipio": "BATATAIS",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201521830005,
+    "Municipio": "BEBEDOURO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201521830008,
+    "Municipio": "FRANCA",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201521830007,
+    "Municipio": "ORLÂNDIA",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Desporto e lazer",
+    "Subfuncao": "Desporto comunitário"
+  },
+  {
+    "Codigo": 201521830014,
+    "Municipio": "RANCHARIA",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201521830006,
+    "Municipio": "RIBEIRÃO PRETO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201521830015,
+    "Municipio": "RIBEIRÃO PRETO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201521830018,
+    "Municipio": "SÃO JOAQUIM DA BARRA",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Comércio e serviços",
+    "Subfuncao": "Turismo"
+  },
+  {
+    "Codigo": 201526800002,
+    "Municipio": "AUGUSTO CORRÊA",
+    "Estado": "PARÁ",
+    "Regiao": "Norte",
+    "Funcao": "Agricultura",
+    "Subfuncao": "Promoção da produção agropecuária"
+  },
+  {
+    "Codigo": 201526800008,
+    "Municipio": "AUGUSTO CORRÊA",
+    "Estado": "PARÁ",
+    "Regiao": "Norte",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201526800003,
+    "Municipio": "ITAITUBA",
+    "Estado": "PARÁ",
+    "Regiao": "Norte",
+    "Funcao": "Agricultura",
+    "Subfuncao": "Promoção da produção agropecuária"
+  },
+  {
+    "Codigo": 201526800004,
+    "Municipio": "ITAITUBA",
+    "Estado": "PARÁ",
+    "Regiao": "Norte",
+    "Funcao": "Cultura",
+    "Subfuncao": "Difusão cultural"
+  },
+  {
+    "Codigo": 201531820004,
+    "Municipio": "BARRETOS",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201531820008,
+    "Municipio": "JOSÉ BONIFÁCIO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Cultura",
+    "Subfuncao": "Difusão cultural"
+  },
+  {
+    "Codigo": 201531820009,
+    "Municipio": "MIRASSOL",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Assistência social",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201531820010,
+    "Municipio": "MIRASSOL",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Assistência social",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201531820012,
+    "Municipio": "SANTA FÉ DO SUL",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Comércio e serviços",
+    "Subfuncao": "Turismo"
+  },
+  {
+    "Codigo": 201531820013,
+    "Municipio": "SANTA FÉ DO SUL",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201531820018,
+    "Municipio": "SÃO JOSÉ DO RIO PRETO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201531820020,
+    "Municipio": "SÃO JOSÉ DO RIO PRETO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201525250010,
+    "Municipio": "ESPÍRITO SANTO DO TURVO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201525250014,
+    "Municipio": "IBIÚNA",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201531840001,
+    "Municipio": "ITABORAÍ",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201531840004,
+    "Municipio": "ITABORAÍ",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201527400016,
+    "Municipio": "ARACI",
+    "Estado": "BAHIA",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201527400011,
+    "Municipio": "IBITITÁ",
+    "Estado": "BAHIA",
+    "Regiao": "Nordeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201527400014,
+    "Municipio": "PIRITIBA",
+    "Estado": "BAHIA",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201527400008,
+    "Municipio": "TEOLÂNDIA",
+    "Estado": "BAHIA",
+    "Regiao": "Nordeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201527400019,
+    "Municipio": "TUCANO",
+    "Estado": "BAHIA",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201525010010,
+    "Municipio": "NITERÓI",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Cultura",
+    "Subfuncao": "Difusão cultural"
+  },
+  {
+    "Codigo": 201525010014,
+    "Municipio": "QUISSAMÃ",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201533940002,
+    "Municipio": "SÃO GONÇALO DO AMARANTE",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Indústria",
+    "Subfuncao": "Empregabilidade"
+  },
+  {
+    "Codigo": 201529080013,
+    "Municipio": "ARACAJU",
+    "Estado": "SERGIPE",
+    "Regiao": "Nordeste",
+    "Funcao": "Cultura",
+    "Subfuncao": "Patrimônio histórico, artístico e arqueológico"
+  },
+  {
+    "Codigo": 201514920002,
+    "Municipio": "BELFORD ROXO",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201514920003,
+    "Municipio": "CACHOEIRAS DE MACACU",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201514920005,
+    "Municipio": "GUAPIMIRIM",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201514920006,
+    "Municipio": "ITABORAÍ",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201514920011,
+    "Municipio": "RIO BONITO",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201514920017,
+    "Municipio": "VALENÇA",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201524560009,
+    "Municipio": "IPOJUCA",
+    "Estado": "PERNAMBUCO",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201524560007,
+    "Municipio": "RECIFE",
+    "Estado": "PERNAMBUCO",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201524560015,
+    "Municipio": "RECIFE",
+    "Estado": "PERNAMBUCO",
+    "Regiao": "Nordeste",
+    "Funcao": "Direitos da cidadania",
+    "Subfuncao": "Direitos individuais, coletivos e difusos"
+  },
+  {
+    "Codigo": 201524560002,
+    "Municipio": "SANTA CRUZ DO CAPIBARIBE",
+    "Estado": "PERNAMBUCO",
+    "Regiao": "Nordeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201512010003,
+    "Municipio": "AXIXÁ DO TOCANTINS",
+    "Estado": "TOCANTINS",
+    "Regiao": "Norte",
+    "Funcao": "Desporto e lazer",
+    "Subfuncao": "Desporto comunitário"
+  },
+  {
+    "Codigo": 201512010004,
+    "Municipio": "CARMOLÂNDIA",
+    "Estado": "TOCANTINS",
+    "Regiao": "Norte",
+    "Funcao": "Desporto e lazer",
+    "Subfuncao": "Desporto comunitário"
+  },
+  {
+    "Codigo": 201512010012,
+    "Municipio": "GOIATINS",
+    "Estado": "TOCANTINS",
+    "Regiao": "Norte",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201512010008,
+    "Municipio": "ITACAJÁ",
+    "Estado": "TOCANTINS",
+    "Regiao": "Norte",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201512010009,
+    "Municipio": "ITAGUATINS",
+    "Estado": "TOCANTINS",
+    "Regiao": "Norte",
+    "Funcao": "Agricultura",
+    "Subfuncao": "Promoção da produção agropecuária"
+  },
+  {
+    "Codigo": 201512010006,
+    "Municipio": "ITAPIRATINS",
+    "Estado": "TOCANTINS",
+    "Regiao": "Norte",
+    "Funcao": "Comércio e serviços",
+    "Subfuncao": "Turismo"
+  },
+  {
+    "Codigo": 201512010016,
+    "Municipio": "SÃO BENTO DO TOCANTINS",
+    "Estado": "TOCANTINS",
+    "Regiao": "Norte",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201519670008,
+    "Municipio": "IRATI",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201519670004,
+    "Municipio": "MEDIANEIRA",
+    "Estado": "PARANÁ",
+    "Regiao": "Sul",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201522110008,
+    "Municipio": "CAMPINAS",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201522110022,
+    "Municipio": "SÃO PAULO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Direitos da cidadania",
+    "Subfuncao": "Direitos individuais, coletivos e difusos"
+  },
+  {
+    "Codigo": 201522110024,
+    "Municipio": "SÃO PAULO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201524490001,
+    "Municipio": "CAMPINA GRANDE",
+    "Estado": "PARAÍBA",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201524490005,
+    "Municipio": "JOÃO PESSOA",
+    "Estado": "PARAÍBA",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201524490006,
+    "Municipio": "JOÃO PESSOA",
+    "Estado": "PARAÍBA",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201524490007,
+    "Municipio": "SANTA LUZIA",
+    "Estado": "PARAÍBA",
+    "Regiao": "Nordeste",
+    "Funcao": "Educação",
+    "Subfuncao": "Ensino profissional"
+  },
+  {
+    "Codigo": 201524490004,
+    "Municipio": "SANTA RITA",
+    "Estado": "PARAÍBA",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201526250019,
+    "Municipio": "DRACENA",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201526250001,
+    "Municipio": "IRAPURU",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201526250006,
+    "Municipio": "MARACAÍ",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201526250007,
+    "Municipio": "MIRANTE DO PARANAPANEMA",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201526250009,
+    "Municipio": "ORINDIÚVA",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201526250024,
+    "Municipio": "PALMITAL",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201526250010,
+    "Municipio": "SÃO FRANCISCO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201526250014,
+    "Municipio": "SÃO JOSÉ DO RIO PRETO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201526250011,
+    "Municipio": "TUPI PAULISTA",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201527990010,
+    "Municipio": "BARRETOS",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201527990020,
+    "Municipio": "CAFELÂNDIA",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201527990019,
+    "Municipio": "IPEÚNA",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201527990017,
+    "Municipio": "PALMARES PAULISTA",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Educação",
+    "Subfuncao": "Educação básica"
+  },
+  {
+    "Codigo": 201527990009,
+    "Municipio": "PALMEIRA D'OESTE",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201527990007,
+    "Municipio": "PLANALTO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201527990012,
+    "Municipio": "SÃO PEDRO",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201527990005,
+    "Municipio": "TUPÃ",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201527990011,
+    "Municipio": "VOTUPORANGA",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201525480002,
+    "Municipio": "ARIPUANÃ",
+    "Estado": "MATO GROSSO",
+    "Regiao": "Centro-Oeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201525480003,
+    "Municipio": "BOM JESUS DO ARAGUAIA",
+    "Estado": "MATO GROSSO",
+    "Regiao": "Centro-Oeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201525480001,
+    "Municipio": "CUIABÁ",
+    "Estado": "MATO GROSSO",
+    "Regiao": "Centro-Oeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201525480020,
+    "Municipio": "CUIABÁ",
+    "Estado": "MATO GROSSO",
+    "Regiao": "Centro-Oeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201525480015,
+    "Municipio": "NOVA XAVANTINA",
+    "Estado": "MATO GROSSO",
+    "Regiao": "Centro-Oeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201525480017,
+    "Municipio": "PEIXOTO DE AZEVEDO",
+    "Estado": "MATO GROSSO",
+    "Regiao": "Centro-Oeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201534040002,
+    "Municipio": "AMÉRICO DE CAMPOS",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201534040007,
+    "Municipio": "SÃO JOSÉ DOS CAMPOS",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Ciência e Tecnologia",
+    "Subfuncao": "Desenvolvimento científico"
+  },
+  {
+    "Codigo": 201534040024,
+    "Municipio": "SÃO JOSÉ DOS CAMPOS",
+    "Estado": "SÃO PAULO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201526270017,
+    "Municipio": "CONCEIÇÃO DO COITÉ",
+    "Estado": "BAHIA",
+    "Regiao": "Nordeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201526270020,
+    "Municipio": "FEIRA DA MATA",
+    "Estado": "BAHIA",
+    "Regiao": "Nordeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201526270013,
+    "Municipio": "TUCANO",
+    "Estado": "BAHIA",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201531950009,
+    "Municipio": "ARROIO DO SAL",
+    "Estado": "RIO GRANDE DO SUL",
+    "Regiao": "Sul",
+    "Funcao": "Educação",
+    "Subfuncao": "Educação básica"
+  },
+  {
+    "Codigo": 201531950010,
+    "Municipio": "BARRA FUNDA",
+    "Estado": "RIO GRANDE DO SUL",
+    "Regiao": "Sul",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201531950011,
+    "Municipio": "CARLOS BARBOSA",
+    "Estado": "RIO GRANDE DO SUL",
+    "Regiao": "Sul",
+    "Funcao": "Desporto e lazer",
+    "Subfuncao": "Desporto comunitário"
+  },
+  {
+    "Codigo": 201531950012,
+    "Municipio": "CONSTANTINA",
+    "Estado": "RIO GRANDE DO SUL",
+    "Regiao": "Sul",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201531950015,
+    "Municipio": "NOVO BARREIRO",
+    "Estado": "RIO GRANDE DO SUL",
+    "Regiao": "Sul",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201531950002,
+    "Municipio": "RONDA ALTA",
+    "Estado": "RIO GRANDE DO SUL",
+    "Regiao": "Sul",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201531950006,
+    "Municipio": "VERANÓPOLIS",
+    "Estado": "RIO GRANDE DO SUL",
+    "Regiao": "Sul",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201521940006,
+    "Municipio": "BURITI BRAVO",
+    "Estado": "MARANHÃO",
+    "Regiao": "Nordeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201521940009,
+    "Municipio": "BURITI BRAVO",
+    "Estado": "MARANHÃO",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Saneamento básico urbano"
+  },
+  {
+    "Codigo": 201521940016,
+    "Municipio": "CANTANHEDE",
+    "Estado": "MARANHÃO",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201521940007,
+    "Municipio": "MARANHÃOZINHO",
+    "Estado": "MARANHÃO",
+    "Regiao": "Nordeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201521940010,
+    "Municipio": "MARANHÃOZINHO",
+    "Estado": "MARANHÃO",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Saneamento básico urbano"
+  },
+  {
+    "Codigo": 201521940011,
+    "Municipio": "PASTOS BONS",
+    "Estado": "MARANHÃO",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Saneamento básico urbano"
+  },
+  {
+    "Codigo": 201521940012,
+    "Municipio": "SÃO RAIMUNDO DAS MANGABEIRAS",
+    "Estado": "MARANHÃO",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Saneamento básico urbano"
+  },
+  {
+    "Codigo": 201528260014,
+    "Municipio": "PADRE BERNARDO",
+    "Estado": "GOIÁS",
+    "Regiao": "Centro-Oeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201528500008,
+    "Municipio": "FLORIANÓPOLIS",
+    "Estado": "SANTA CATARINA",
+    "Regiao": "Sul",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201523890001,
+    "Municipio": "MARACANAÚ",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201523890004,
+    "Municipio": "MARACANAÚ",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201523890003,
+    "Municipio": "MORRINHOS",
+    "Estado": "CEARÁ",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Saneamento básico rural"
+  },
+  {
+    "Codigo": 201529770025,
+    "Municipio": "PATY DO ALFERES",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Desporto e lazer",
+    "Subfuncao": "Desporto comunitário"
+  },
+  {
+    "Codigo": 201529770011,
+    "Municipio": "VASSOURAS",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Desporto e lazer",
+    "Subfuncao": "Desporto comunitário"
+  },
+  {
+    "Codigo": 201534850011,
+    "Municipio": "MACAPÁ",
+    "Estado": "AMAPÁ",
+    "Regiao": "Norte",
+    "Funcao": "Ciência e Tecnologia",
+    "Subfuncao": "Promoção comercial"
+  },
+  {
+    "Codigo": 201523680006,
+    "Municipio": "BELO HORIZONTE",
+    "Estado": "MINAS GERAIS",
+    "Regiao": "Sudeste",
+    "Funcao": "Educação",
+    "Subfuncao": "Ensino superior"
+  },
+  {
+    "Codigo": 201529790009,
+    "Municipio": "LAGARTO",
+    "Estado": "SERGIPE",
+    "Regiao": "Nordeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Assistência hospitalar e ambulatorial"
+  },
+  {
+    "Codigo": 201529790011,
+    "Municipio": "LAGARTO",
+    "Estado": "SERGIPE",
+    "Regiao": "Nordeste",
+    "Funcao": "Educação",
+    "Subfuncao": "Ensino superior"
+  },
+  {
+    "Codigo": 201513460003,
+    "Municipio": "BURITIRAMA",
+    "Estado": "BAHIA",
+    "Regiao": "Nordeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201513460005,
+    "Municipio": "FEIRA DE SANTANA",
+    "Estado": "BAHIA",
+    "Regiao": "Nordeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201513460009,
+    "Municipio": "MUCUGÊ",
+    "Estado": "BAHIA",
+    "Regiao": "Nordeste",
+    "Funcao": "Comércio e serviços",
+    "Subfuncao": "Turismo"
+  },
+  {
+    "Codigo": 201513460010,
+    "Municipio": "SALVADOR",
+    "Estado": "BAHIA",
+    "Regiao": "Nordeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201528360003,
+    "Municipio": "CAMPO GRANDE",
+    "Estado": "MATO GROSSO DO SUL",
+    "Regiao": "Centro-Oeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201519070002,
+    "Municipio": "FERREIRA GOMES",
+    "Estado": "AMAPÁ",
+    "Regiao": "Norte",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201519070012,
+    "Municipio": "FERREIRA GOMES",
+    "Estado": "AMAPÁ",
+    "Regiao": "Norte",
+    "Funcao": "Saúde",
+    "Subfuncao": "Saneamento básico urbano"
+  },
+  {
+    "Codigo": 201519070009,
+    "Municipio": "MACAPÁ",
+    "Estado": "AMAPÁ",
+    "Regiao": "Norte",
+    "Funcao": "Desporto e lazer",
+    "Subfuncao": "Desporto comunitário"
+  },
+  {
+    "Codigo": 201519070010,
+    "Municipio": "MACAPÁ",
+    "Estado": "AMAPÁ",
+    "Regiao": "Norte",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201519070011,
+    "Municipio": "MACAPÁ",
+    "Estado": "AMAPÁ",
+    "Regiao": "Norte",
+    "Funcao": "Saúde",
+    "Subfuncao": "Administração geral"
+  },
+  {
+    "Codigo": 201519070003,
+    "Municipio": "MAZAGÃO",
+    "Estado": "AMAPÁ",
+    "Regiao": "Norte",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201519070004,
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Estado": "AMAPÁ",
+    "Regiao": "Norte",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201519070005,
+    "Municipio": "PORTO GRANDE",
+    "Estado": "AMAPÁ",
+    "Regiao": "Norte",
+    "Funcao": "Defesa nacional",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201525020005,
+    "Municipio": "LAJE DO MURIAÉ",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201525020008,
+    "Municipio": "MIRACEMA",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201525020016,
+    "Municipio": "NOVA IGUAÇU",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Urbanismo",
+    "Subfuncao": "infra-estrutura urbana"
+  },
+  {
+    "Codigo": 201525020011,
+    "Municipio": "QUATIS",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Saúde",
+    "Subfuncao": "Atenção básica"
+  },
+  {
+    "Codigo": 201525020013,
+    "Municipio": "VALENÇA",
+    "Estado": "RIO DE JANEIRO",
+    "Regiao": "Sudeste",
+    "Funcao": "Assistência social",
+    "Subfuncao": "Assistência comunitária"
+  },
+  {
+    "Codigo": 201532040014,
+    "Municipio": "ÁGUAS BELAS",
+    "Estado": "PERNAMBUCO",
+    "Regiao": "Nordeste",
+    "Funcao": "Direitos da cidadania",
+    "Subfuncao": "Normatização e fiscalização"
+  }
+]
